@@ -42,6 +42,7 @@ out/
 *.suo
 *.userosscache
 *.sln.docstates
+.vs
 
 # VS Code C# extensions
 .vscode/*.csproj
